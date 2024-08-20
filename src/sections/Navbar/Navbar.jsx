@@ -16,7 +16,7 @@ function Navbar() {
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-        <img src="/public/Raghav Pareek logo.png" alt="Raghav's Logo" />
+        <img src="/Raghav Pareek logo.png" alt="Raghav's Logo" />
       </a>
       <div className={styles.menu}>
         <img
